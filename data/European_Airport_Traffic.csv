@@ -1,0 +1,23 @@
+STRUCTURE,,,,
+STRUCTURE_ID,,,,
+STRUCTURE_NAME,,,,
+freq,,,,
+Time frequency,,,,
+unit,,TSLA(TESLA),,
+Unit of measure,,Model,Directional Accuracy,RMSE
+tra_meas,Baseline1,ARIMA ,51.3,0.15381
+Traffic and transport measurement,,LSTM,52.8,0.16132
+tra_cov,,LSTM + Transformer,61.6,0.14533
+Transport coverage,,,,
+schedule,,,,
+Type of schedule,,,,
+geo,,,,
+Geopolitical entity (reporting),,,,
+TIME_PERIOD,,AAPL(APPLE),,
+Time,,Model,Directional Accuracy,RMSE
+OBS_VALUE,,ARIMA ,59.3,0.15381
+Observation value,,LSTM,62.8,0.16132
+OBS_FLAG,,LSTM + Transformer,65.7,0.0731
+Observation status (Flag) V2 structure,,,,
+CONF_STATUS,,,,
+Confidentiality status (flag),,,,
