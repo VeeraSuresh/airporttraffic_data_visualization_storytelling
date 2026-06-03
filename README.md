@@ -6,6 +6,7 @@ This project explores European airport passenger traffic trends between 2020 and
 
 Using Eurostat aviation data, the analysis combines data cleaning, exploratory data analysis (EDA), statistical analysis, and data storytelling techniques to uncover how passenger traffic evolved across European countries during one of the most disruptive periods in aviation history.
 
+![European Airport Traffic Story](outputs/airport_traffic_storytelling_dashboard.png)
 ---
 
 ## Project Objectives
